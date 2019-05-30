@@ -22,5 +22,5 @@ public class math{
 		obj.mult(8,9);
 		obj.ave(8,9);
 	}
-	
+	//Test for branch1
 }
