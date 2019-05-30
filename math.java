@@ -2,6 +2,7 @@
 * This is test class for GIT
 * Verifing the git functionality
 */
+//added comment to testt branch2
 public class math{
 	public void add(int a, int b){
 		System.out.println(int c=a+b);
